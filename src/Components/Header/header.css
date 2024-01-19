@@ -1,0 +1,23 @@
+.h-wrapper {
+    background: var(--black);
+    color: #fff;
+    
+}
+
+.h-container {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    color: var(--secondary);
+    padding: 1rem;
+}
+
+.h-container> img {
+    width: 10rem;
+}
+
+.h-menu> h1{
+    color: var(--lightBlue);
+    font-weight: lighter;
+}
