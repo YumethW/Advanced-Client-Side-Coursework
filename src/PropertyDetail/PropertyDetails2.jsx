@@ -38,12 +38,12 @@ const PropertyDetails2 = () => {
           </TabPanel>
 
           <TabPanel>
-            <img src="./floorplan.jpg" alt="floorplan" />
+            <img src="/floorplan.jpg" alt="floorplan" />
             <p className="secondaryText">Floorplan</p>
           </TabPanel>
 
           <TabPanel>
-            <img src="./map.jpg" alt="map" />
+            <img src="/map.jpg" alt="map" />
             <p className="secondaryText">Map</p>
           </TabPanel>
         </Tabs>
