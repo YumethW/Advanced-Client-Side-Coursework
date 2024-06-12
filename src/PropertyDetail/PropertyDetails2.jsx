@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import data from "../Utils/properties.json";
+import data from "../utils/properties.json";
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 import "react-tabs/style/react-tabs.css";
 import "./propertyDetails.css";

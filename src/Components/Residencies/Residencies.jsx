@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./residencies.css";
-import data from "../../Utils/properties.json";
+import data from "../../utils/properties.json";
 import { HiLocationMarker } from "react-icons/hi";
 import { Link } from "react-router-dom";
 
